@@ -14,7 +14,9 @@
       "fallbackToCacheTimeout": 0,
       "url": "https://u.expo.dev/bdf628be-517c-4689-a96c-91054a0c7fe1"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.xenoliner.TomeOfRulings",
@@ -29,6 +31,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bdf628be-517c-4689-a96c-91054a0c7fe1"
+      }
     }
   }
 }

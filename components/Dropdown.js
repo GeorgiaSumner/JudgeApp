@@ -20,6 +20,7 @@ const Dropdown = ({ setBooster, booster }) => {
         <Picker.Item label="Tales of Aria" value="ELE" />
         <Picker.Item label="Everfest" value="EVR" />
         <Picker.Item label="Uprising" value="UPR" />
+        <Picker.Item label="Dynasty" value="DYN" />
       </Picker>
     </View>
   );

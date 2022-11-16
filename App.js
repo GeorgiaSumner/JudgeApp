@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Image, ImageBackground } from "react-native";
+import { View, Image, ImageBackground, SafeAreaView } from "react-native";
 import Search from "./components/SearchBar.js";
 import Dropdown from "./components/Dropdown.js";
 import CardDisplay from "./components/CardDisplay.js";

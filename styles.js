@@ -8,9 +8,9 @@ const styles = StyleSheet.create({
     position: "absolute",
     flex: 1,
     left: 0,
-    top: 35,
+    top: 0,
     width: Dimensions.get("window").width,
-    height: Dimensions.get("window").height,
+    height: 805,
   },
   coverImage: {
     width: 350,

@@ -5,6 +5,7 @@ const cardData = [
       "\nYou cannot activate Fyendal’s Spring Tunic during the start of the turn phase (in response to the trigger), because players do not get priority during the start of turn phase.\n\u203B\n You must have at least 3 energy counters on Fyendal’s Spring Tunic to use it’s activated ability.\n\u203B\n Fyendal’s Spring Tunic’s activated ability is an instant. You may activate it any time you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/FyendalsSpringTunic.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Goliath Gauntlet",
@@ -12,6 +13,7 @@ const cardData = [
       "\nThe attack action card does not gain go again. Goliath Gauntlet’s activated ability requires an action point to use and provides an action point from go again upon resolution.",
     cardImage: require("./images/GoliathGauntlet.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Heartened Cross Strap",
@@ -19,6 +21,7 @@ const cardData = [
       "\nThe attack action card does not again go again. Heartened Cross Strap’s activated ability requires an action point to use and provides an action point from go again upon resolution.\n\u203B\n The reduction does not carry over to any additional attack actions outside of the first attack action card you play after activating Heartened Cross Strap.",
     cardImage: require("./images/HeartenedCrossStrap.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Hope Merchant’s Hood",
@@ -26,6 +29,7 @@ const cardData = [
       "\nThe cards must be selected and shuffled in at the same time.\n\u203B\n Hope Merchant’s Hood’s activated ability is an instant. You may activate it any time you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/HopeMerchantsHood.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Snapdragon Scalers",
@@ -33,6 +37,7 @@ const cardData = [
       "\nIf this is used on an attack with go again, you will only gain 1 action point upon resolution as multiple instances of go again do not stack.\n\u203B\n Snapdragon Scaler’s activated ability is an attack reaction. You may activate it during the reaction window when you are the attacking hero.",
     cardImage: require("./images/SnapdragonScalers.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Barraging Brawnhide",
@@ -40,6 +45,7 @@ const cardData = [
       "\nDefense reactions played from arsenal and/or hand count as defending cards.",
     cardImage: require("./images/BarragingBrawnhide.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Crazy Brew",
@@ -47,6 +53,7 @@ const cardData = [
       "\nYou cannot defend with Crazy Brew as it has no defense value.\n\u203B\n The ability must resolve completely. There is no window to react between letting the ability resolve and seeing which effect is applied.",
     cardImage: require("./images/CrazyBrew.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Demolition Crew",
@@ -54,6 +61,7 @@ const cardData = [
       "\nYou must have at least one card in your hand with cost {r}{r} or greater for the additional cost at the time you play Demolition Crew.\n\u203B\n You may not reveal the same Demolition Crew to itself to pay for the additional cost.\n\u203B\n You can not reveal a card for the additional cost, and then pitch that same card to pay the resource of Demolition Crew. Paying resource costs happens before paying additional costs.",
     cardImage: require("./images/DemolitionCrew.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Drone of Brutality",
@@ -61,6 +69,7 @@ const cardData = [
       "\nAnywhere includes all possible zones, such as from hand, or deck. This is not limited to being put into the graveyard from the combat chain.",
     cardImage: require("./images/DroneOfBrutality.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Energy Potion",
@@ -68,6 +77,7 @@ const cardData = [
       "\nEnergy Potion requires an action point to play as it is an action.\n\u203B\n Energy Potion has sub-type Item, which means it stays in the arena until it is destroyed.\n\u203B\n You may not defend with Energy Potion as it does not have a defense value.\n\u203B\n You may use Energy Potion’s ability even when you are not spending any of the resources gained by it.\n\u203B\n Energy Potion’s activated ability is an instant. You may activate it any time you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/EnergyPotion.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Enlightened Strike",
@@ -75,6 +85,7 @@ const cardData = [
       "\nYou must have at least one other card in your hand to pay for the additional cost at the time you play Enlightened Strike.\n\u203B\n You choose the mode at the time you play Enlightened Strike.",
     cardImage: require("./images/EnlightenedStrike.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Flock of the Feather Walkers",
@@ -82,6 +93,7 @@ const cardData = [
       "\nYou must have at least one other card in your hand with cost {r} or less to pay for the additional cost of Flock of the Feather Walkers.\n\u203B\n You may not reveal the same Flock of the Feather Walkers to itself to pay for the additional cost.\n\u203B\n The Quicken aura token remains in play until destroyed.\n\u203B\n A Quicken aura token may be represented by a small object such as a card sleeve or coin if a Quicken aura token card is not available.\n\u203B\n You can not reveal a card for the additional cost, and then pitch that same card to pay the resource of Flock of the Feather Walkers. Paying resource costs happens before paying additional costs.",
     cardImage: require("./images/FlockOfTheFeatherWalkers.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Heart of Fyendal",
@@ -89,6 +101,7 @@ const cardData = [
       "\nThe green symbol on Heart of Fyendal is life.\n\u203B\n You may only have 1 Heart of Fyendal in your deck including cards in your registered 80-card pool in constructed tournaments and only 1 Heart of Fyendal in your deck in limited tournaments.\n\u203B\n You may not defend with Heart of Fyendal as it does not have a defense value.\n\u203B\n Heart of Fyendal does not have a cost value. (It is not zero.)",
     cardImage: require("./images/HeartOfFyendal.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Last Ditch Effort",
@@ -96,6 +109,7 @@ const cardData = [
       "\nLast Ditch Effort checks how many cards are in your deck at the time you play it. If after you play it your deck’s size changes, the stats and go again applied to Last Ditch Effort would still remain.",
     cardImage: require("./images/LastDitchEffort.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Nimble Strike",
@@ -103,6 +117,7 @@ const cardData = [
       "\nYou must decide if you are banishing a card name Nimblism at the time you play Nimble Strike.\n\u203B\n Non-attack action cards go to the graveyard after they resolve, therefore you may banish a Nimblism you played this turn.",
     cardImage: require("./images/NimbleStrike.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Nimblism",
@@ -110,6 +125,7 @@ const cardData = [
       "\nThe attack action does not gain go again. Nimblism requires an action point to use and provides an action point from go again upon resolution.",
     cardImage: require("./images/Nimblism.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Potion of Strength",
@@ -117,6 +133,7 @@ const cardData = [
       "\nPotion of Strength requires an action point to play as it is an action.\n\u203B\n Potion of Strength has sub-type Item, which means it stays in the arena until it is destroyed.\n\u203B\n You may not defend with Potion of Strength as it does not have a defense value.\n\u203B\n The attack does not gain go again. Potion of Strength requires an action point to use and provides an action point from go again upon resolution.",
     cardImage: require("./images/PotionOfStrength.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Pummel",
@@ -124,6 +141,7 @@ const cardData = [
       "\nYou cannot play Pummel if there is not a legal target.\n\u203B\n You cannot target a weapon, only a weapon attack.",
     cardImage: require("./images/Pummel.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Razor Reflex",
@@ -131,6 +149,7 @@ const cardData = [
       "\nYou cannot play Razor Reflex if there is not a legal target\n\u203B\n You cannot target a weapon, only a weapon attack.\n\u203B\n You cannot target a weapon attack with the second option.\n\u203B\n If this is used on an attack with go again, you will only gain 1 action point upon resolution as multiple instances of go again do not stack.",
     cardImage: require("./images/RazorReflex.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Regurgitating Slog",
@@ -138,6 +157,7 @@ const cardData = [
       "\nYou must decide if you are banishing a card named Sloggism at the time you play Regurgitating Slog.\n\u203B\n Non-attack action cards go to the graveyard after it resolves, therefore you may banish a Sloggism you played this turn.",
     cardImage: require("./images/RegurgitatingSlog.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Remembrance",
@@ -145,6 +165,7 @@ const cardData = [
       "\nYou may not defend with Remembrance as it does not have a defense value.\n\u203B\n You may shuffle 0, 1, 2 or 3 action cards from your graveyard into your deck.\n\u203B\n You are not required to announce your choices until the card resolves.\n\u203B\n You may only shuffle action cards from your graveyard into your deck. This includes attack actions. This excludes any card that is not an action such as equipment, resource, defense reaction, attack reaction and instant.\n\u203B\n Remembrance is an instant. You may play it anytime you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/Rememberance.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Scar for a Scar",
@@ -152,6 +173,7 @@ const cardData = [
       "\nThe green symbol on Scar for a Scar is life.\n\u203B\n Scar for a Scar checks if you have less life than your opponent at the time you play it. Changes after the card has been played does not cause Scar for a Scar to gain nor lose go again.",
     cardImage: require("./images/ScarForAScar.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Sink Below",
@@ -159,6 +181,7 @@ const cardData = [
       "\nSink Below can only be played in the reaction window.\n\u203B\n You must resolve Sink Below’s ability before deciding if you are defending with any additional cards in the reaction window.\n\u203B\n You cannot use Sink Below’s ability if you have no other cards in your hand. You only draw a card if you put a card from your hand on the bottom of your deck.\n\u203B\n Sink Below’s effect is optional. You may still play Sink Below if you have no other cards in your hand.",
     cardImage: require("./images/SinkBelow.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Sigil of Solace",
@@ -166,6 +189,7 @@ const cardData = [
       "\nThe green symbol on Sigil of Solace is life.\n\u203B\n You may not defend with Sigil of Solace as it does not have a defense value.\n\u203B\n Sigil of Solace is an instant. You may play it anytime you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/SigilOfSolace.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Sloggism",
@@ -173,6 +197,7 @@ const cardData = [
       "\nThe attack action does not gain go again. Sloggism requires an action point to use and provides an action point from go again upon resolution.",
     cardImage: require("./images/Sloggism.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Snatch",
@@ -180,6 +205,7 @@ const cardData = [
       "\nThe attack is considered to have hit if it does 1 or more damage to the defending hero.",
     cardImage: require("./images/Snatch.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Tome of Fyendal",
@@ -187,6 +213,7 @@ const cardData = [
       "\nThe green symbol of Tome of Fyendal is life.\n\u203B\n You can exceed your starting life total. There is no maximum life total.\n\u203B\n If you end the turn with more cards in hand than your hero’s intellect, you do not discard to your hero’s intellect (hand size). There is no maximum hand size.",
     cardImage: require("./images/TomeOfFyendal.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Unmovable",
@@ -194,6 +221,7 @@ const cardData = [
       "\nSince defense reactions can’t defend in the defending window and must be played in the reaction window, you must pay Unmovable’s cost to play it.\n\u203B\n You may play Unmovable from your hand, however it will not get it’s bonus.",
     cardImage: require("./images/Unmovable.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Wounded Bull",
@@ -201,6 +229,7 @@ const cardData = [
       "\nThe green symbol on Wounded Bull is life.\n\u203B\n Wounded Bull checks if you have less life than your opponent at the time you play it. Changes after the card has been played does not cause Wounded Bull to gain nor lose +1{p}.",
     cardImage: require("./images/WoundedBull.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Rhinar",
@@ -208,6 +237,7 @@ const cardData = [
       "\nThis checks the discarded card’s base power. Effects that modify a card's power are not applied to a card discarded from hand.\n\u203B\n The player who owns the card banished face down is allowed to look at it.\n\u203B\n The card banished from intimidate is returned to hand at the beginning of the end phase. This is before players draw up to hand size.",
     cardImage: require("./images/Rhinar.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Romping Club",
@@ -215,6 +245,7 @@ const cardData = [
       "\nThis checks the discarded card’s base power. Effects that modify a card's power are not applied to a card discarded from hand.",
     cardImage: require("./images/RompingClub.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Barkbone Strapping",
@@ -222,6 +253,7 @@ const cardData = [
       "\nIf the number rolled is 1, no resources would be gained.\n\u203B\n You may use Barkbone Strapping’s activated ability even when there is no cost to be paid. Barkbone Strapping’s activated ability is an instant. You may activate it any time you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/BarkboneStrapping.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Scabskin Leathers",
@@ -229,6 +261,7 @@ const cardData = [
       "\nIf the number rolled is 1, no action points would be gained.\n\u203B\n Scabskin Leathers requires an action point to use.",
     cardImage: require("./images/ScabskinLeathers.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Alpha Rampage",
@@ -236,6 +269,7 @@ const cardData = [
       "\nYou may only play Alpha Rampage in your deck if your hero is Rhinar, Reckless Rampage or Rhinar (young hero).\n\u203B\n You must have at least one other card in your hand to pay for the additional cost at the time you play Alpha Rampage.\n\u203B\n The player who owns the banished face down card is allowed to look at it.\n\u203B\n The card banished from intimidate is returned to hand at the beginning of the end phase. This is before players draw up to hand size.",
     cardImage: require("./images/AlphaRampage.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Awakening Bellow",
@@ -243,6 +277,7 @@ const cardData = [
       "\nThis card only affects Brute attack action cards. Brute weapon attack or generic attack actions do not benefit this.\n\u203B\n The player who owns the banished face down card is allowed to look at it.\n\u203B\n The card banished from intimidate is returned to hand at the beginning of the end phase. This is before players draw up to hand size.",
     cardImage: require("./images/AwakeningBellow.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Barraging Beatdown",
@@ -250,6 +285,7 @@ const cardData = [
       "\nThis card only affects Brute attacks (Brute attack action cards or Brute weapon attacks). Generic attack actions do not benefit this.\n\u203B\n The player who owns the banished face down card is allowed to look at it.\n\u203B\n The card banished from intimidate is returned to hand at the beginning of the end phase. This is before players draw up to hand size.",
     cardImage: require("./images/BarragingBeatdown.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Bloodrush Bellow",
@@ -257,6 +293,7 @@ const cardData = [
       "\nThis checks the discarded card’s base power. Effects that modify a card's power are not applied to a card discarded from hand.\n\u203B\n This card only affects Brute attacks (Brute attack action cards or Brute weapon attacks). Generic attack actions do not benefit this.",
     cardImage: require("./images/BloodrushBellow.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Bone Head Barrier",
@@ -264,6 +301,7 @@ const cardData = [
       "\nYou may not defend with Bone Head Barrier as it does not have a defense value.\n\u203B\n You must prevent the incoming damage, you cannot save the prevention for a future attack once Bone Head Barrier resolves.\n\u203B\n Bone Head Barrier is an instant. You may play it anytime you have priority, including during an opponent’s turn, and during the reaction window of either player’s turn.",
     cardImage: require("./images/BoneHeadBarrier.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Breakneck Battery",
@@ -271,6 +309,7 @@ const cardData = [
       "\nThis checks the discarded card’s base power. Effects that modify a card's power are not applied to a card discarded from hand.",
     cardImage: require("./images/BreakneckBattery.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Pack Hunt",
@@ -278,6 +317,7 @@ const cardData = [
       "\nThe player who owns the banished face down card is allowed to look at it.\n\u203B\n The card banished from intimidate is returned to hand at the beginning of the end phase. This is before players draw up to hand size.",
     cardImage: require("./images/PackHunt.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Primeval Bellow",
@@ -285,6 +325,7 @@ const cardData = [
       "\nYou must have at least one other card in your hand to pay for the additional cost at the time you play Primeval Bellow.\n\u203B\n This card only affects Brute attacks (Brute attack action cards or Brute weapon attacks). Generic attack actions do not benefit this.\n\u203B\n You can only pitch when there is a cost to pay. You cannot pitch a card to play Primeval Bellow because it costs 0. Yes, we did this to make it awkward.",
     cardImage: require("./images/PrimevalBellow.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Reckless Swing",
@@ -292,6 +333,7 @@ const cardData = [
       "\nYou must have at least one other card in your hand to pay for the additional cost at the time you play Reckless Swing.\n\u203B\n This checks the discarded card’s base power. Effects that modify a card's power are not applied to a card discarded from hand.\n\u203B\n The damage cannot be blocked but it can be prevented by a prevention effect.\n\u203B\n You can only pitch when there is a cost to pay. You cannot pitch a card to play Reckless Swing.",
     cardImage: require("./images/RecklessSwing.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Sand Sketched Plan",
@@ -299,6 +341,7 @@ const cardData = [
       "\nYou may only play Sand Sketched Plan in your deck if your hero is Rhinar, Reckless Rampage or Rhinar (young hero).\n\u203B\n This checks the discarded card’s base power. Effects that modify a card's power are not applied to a card discarded from hand.\n\u203B\n You may elect not to put a card into your hand, you still must discard and shuffle your deck after.\n\u203B\n You can only pitch when there is a cost to pay. You cannot pitch a card to cast Sand Sketched Plan.\n\u203B\n Sand Sketched Plan does not have go again. If you don’t discard a card with 6 or more power from its effect, your action phase will end unless you had two or more action points before playing Sand Sketched Plan.",
     cardImage: require("./images/SandSketchedPlan.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Savage Swing",
@@ -306,6 +349,7 @@ const cardData = [
       "\nYou must have at least one other card in your hand to pay for the additional cost at the time you play Savage Swing.",
     cardImage: require("./images/SavageSwing.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Smash Instinct",
@@ -313,6 +357,7 @@ const cardData = [
       "\nThe player who owns the banished face down card is allowed to look at it.\n\u203B\n The card banished from intimidate is returned to hand at the beginning of the end phase. This is before players draw up to hand size.",
     cardImage: require("./images/SmashInstinct.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Wrecker Romp",
@@ -320,6 +365,7 @@ const cardData = [
       "\nYou must have at least one other card in your hand to pay for the additional cost at the time you play Wrecker Romp.",
     cardImage: require("./images/WreckerRomp.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Bravo",
@@ -327,6 +373,7 @@ const cardData = [
       "\nThe attack action does not gain go again. Bravo’s activated ability requires an action point to use and provides an action point from go again upon resolution.",
     cardImage: require("./images/Bravo.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Anothos",
@@ -334,6 +381,7 @@ const cardData = [
       "\nAnothos checks your pitch zone constantly not just when it attacks. If the criteria is met after the attack is made, it will get the +2{p} bonus.\n\u203B\n You can only pitch when there is a cost to pay. (Bravo’s hero ability can be useful for this.)",
     cardImage: require("./images/Anothos.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Helm of Isens Peak",
@@ -341,6 +389,7 @@ const cardData = [
       "\nThe blue symbol is intellect. This is your hand size (How much you draw up to at the end of turn.)\n\u203B\n You draw up to your hand size before end of turn effects wear off.\n\u203B\n Helm of Isen’s Peak requires an action point to activate. It does not have go again. Activating Helm of Isen Peak will usually end your action phase.\n\u203B\n When you defend with a card it remains on the combat chain until the chain closes, therefore you cannot defend with an equipment multiple times on the same chain link.",
     cardImage: require("./images/HelmOfIsensPeak.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Tectonic Plating",
@@ -348,6 +397,7 @@ const cardData = [
       "\nA Seismic Surge is a Guardian Token - Aura with “At the beginning of your action phase, destroy Seismic Surge then the next Guardian attack action card you play this turn costs {r} less to play.",
     cardImage: require("./images/TectonicPlating.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Blessing of Deliverance",
@@ -355,6 +405,7 @@ const cardData = [
       "\nThe green symbol on Blessing of Deliverance is life.\n\u203B\n Blessing of Deliverance checks the resource cost of a card (top right corner), not the pitch value.\n\u203B\n The cards stay in the same order on top of the deck as they were before they were revealed.",
     cardImage: require("./images/BlessingOfDeliverance.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Buckling Blow",
@@ -362,6 +413,7 @@ const cardData = [
       "\nYou may play Buckling Blow even if defending player controls no equipment.\n\u203B\n You target the equipment at the time the hero takes 4 or more damage.\n\u203B\n The counter stays on the equipment permanently.",
     cardImage: require("./images/BucklingBlow.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Cartilage Crush",
@@ -369,6 +421,7 @@ const cardData = [
       "\nThis includes all cards with card type action and all action activated abilities.",
     cardImage: require("./images/CartilageCrush.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Cranial Crush",
@@ -376,6 +429,7 @@ const cardData = [
       "\nThis does not affect drawing up to your hand size since that is done during the end of turn phase.\n\u203B\n Does not stop effects that put a card into their hand from their deck.\n\u203B\n The player may still play cards that would draw cards. If they do, and would draw 1 or more cards during their action phase, instead they don’t. (The rest of the card effect still applies)",
     cardImage: require("./images/CranialCrush.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Crippling Crush",
@@ -383,12 +437,14 @@ const cardData = [
       "\nYou may only play Crippling Crush in your deck if your hero is Bravo, Showstopper or Bravo (young hero)",
     cardImage: require("./images/CripplingCrush.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Crush Confidence",
     ruling: "\nThe hero’s intellect, health and hero name is unaffected.",
     cardImage: require("./images/CrushConfidence.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Debilitate",
@@ -396,6 +452,7 @@ const cardData = [
       "\nIf the power of an attack would become less than 0, it is considered to be 0. However if the attack then gets a positive power modifier, it will still be under the effect of the -2{p} modifier.\n\u203B\n This affects all attacks including attack action cards and weapon attacks.",
     cardImage: require("./images/Debilitate.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Disable",
@@ -403,6 +460,7 @@ const cardData = [
       "\nYou may still play Disable even if the other player does not have an arsenal.",
     cardImage: require("./images/Disable.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Emerging Power",
@@ -410,6 +468,7 @@ const cardData = [
       "\nEmerging Power must be destroyed at the beginning of your action phase, it is not optional.",
     cardImage: require("./images/EmergingPower.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Forged for War",
@@ -417,6 +476,7 @@ const cardData = [
       "\nForged for War must be destroyed at the beginning of your action phase, it is not optional.\n\u203B\n You may defend with an equipment if it has a defense value (0 is a value).\n\u203B\n The equipment does not need Blade Break or Battleworn to defend.",
     cardImage: require("./images/ForgedForWar.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Show Time!",
@@ -424,6 +484,7 @@ const cardData = [
       "\nYou may only play Show Time! in your deck if your hero is Bravo, Showstopper or Bravo (young hero).\n\u203B\n Show Time! must be destroyed at the beginning of your action phase, it is not optional.\n\u203B\n You may elect not to put a card into your hand, you still must shuffle your deck after.",
     cardImage: require("./images/ShowTime.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Staunch Response",
@@ -431,6 +492,7 @@ const cardData = [
       "\nSince defense reactions can’t defend in the defending window and must be played in the reaction window, you must pay Staunch Response’s cost to play it.\n\u203B\n You choose if you want to pay the additional cost at the time you play Staunch Response.\n\u203B\n The additional cost is in addition to Staunch Reponse’s normal resource cost. If you want to play Staunch Response with the bonus, it would cost {r}{r}{r}{r}{r}{r} to play.\n\u203B\n If you pay the additional cost of Staunch Response, it’s still considered to cost 2 (as printed in the top right corner of the card.)",
     cardImage: require("./images/StaunchResponse.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Stonewall Confidence",
@@ -438,6 +500,7 @@ const cardData = [
       "\nStonewall Confidence must be destroyed at the beginning of your action phase, it is not optional.\n\u203B\n Stonewall Confidence modifies the defense value of all cards you control with cost 3 or greater. This includes guardian cards and generic cards.",
     cardImage: require("./images/StonewallConfidence.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Spinal Crush",
@@ -445,6 +508,7 @@ const cardData = [
       "\nThe effect of Spinal Crush affects actions from any source controlled by that hero. This includes activated actions of equipment, weapons, and hero cards, and playing action cards of any type.\n\u203B\n This does not stop effects that directly gain action points outside of go again.",
     cardImage: require("./images/SpinalCrush.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Katsu",
@@ -452,6 +516,7 @@ const cardData = [
       "\nYou may elect not to banish a card when searching, however you still must shuffle your deck.\n\u203B\nKatsu's hero card effect triggers only once per turn, the first time you hit with an attack action card. If you choose not to resolve the effect and you hit again later in the same turn, Katsu's hero card effect will not trigger again.",
     cardImage: require("./images/Katsu.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Harmonized Kodachi",
@@ -459,6 +524,7 @@ const cardData = [
       "\nIt is possible for Harmonized Kodachi to gain go again after the attack has been declared if a card with cost 0 enters the pitch zone before the chain link resolves.\n\u203B\n You can only pitch when there is a cost to pay.\n\u203B\n You may start the game with zero, one or two Harmonized Kodachis as it is a 1-handed weapon. (We highly recommend choosing 2.)",
     cardImage: require("./images/HarmonizedKodachi.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Breaking Scales",
@@ -466,6 +532,7 @@ const cardData = [
       "\nBreaking Scales can only target a card with combo.\n\u203B\n The card must have the keyword combo (displayed on a card as Combo - [text]) This does not include cards that just reference combo or have combo in the text box.",
     cardImage: require("./images/BreakingScales.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Mask of Momentum",
@@ -473,6 +540,7 @@ const cardData = [
       "\nMask of Momentum does not keep track of hits in a row of the previous combat chain (If the combat chain was closed).\n\u203B\n The attack must be the third to hit in a row.\n\u203B\n The third or higher attack must be an attack action card to trigger Mask of Momentum, however the previous attacks can be any attack ie. weapon attacks.",
     cardImage: require("./images/MaskOfMomentum.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Ancestral Empowerment",
@@ -480,6 +548,7 @@ const cardData = [
       "\nAncestral Empowerment can only target ninja attack action cards. This excludes weapon attacks and generic attack action cards.",
     cardImage: require("./images/AncestralEmpowerment.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Flic Flak",
@@ -487,6 +556,7 @@ const cardData = [
       "\nThe card must have the keyword combo (displayed on a card as Combo - [text]) This does not include cards that just reference combo or have combo in the text box.\n\u203B\n You cannot block with Flic Flak and a combo card simultaneously as Flic Flak must be used during the reaction window and that is after the defending window. Flic Flak is good when your opponent attacks again after the attack Flic Flak defended.\n\u203B\n The effect from Flic Flak is active until either you defend with another card or the turn ends. Closing the combat chain does not turn off Flic Flak’s effect.",
     cardImage: require("./images/FlickFlack.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Hurricane Technique",
@@ -494,6 +564,7 @@ const cardData = [
       "\nTIf Hurricane Technique hits and returns to your hand (because Rising Knee Thrust was the last attack), and you then immediately play Hurricane Technique again, it will not gain its combo effect (because the last attack on the combat chain was not Rising Knee Thrust - it was Hurricane Technique).",
     cardImage: require("./images/HurricaneTechnique.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Mugenshi: RELEASE",
@@ -501,6 +572,7 @@ const cardData = [
       "\nYou may only play Mugenshi: RELEASE in your deck if your hero is Katsu, the Wanderer or Katsu (young hero).\n\u203B\n You may elect not to put any card(s) into your hand, you still must shuffle your deck after.",
     cardImage: require("./images/Mugenshi.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Lord of Wind",
@@ -508,6 +580,7 @@ const cardData = [
       "\nYou may only play Lord of Wind in your deck if your hero is Katsu, the Wanderer or Katsu (young hero).\n\u203B\n You choose X at the time you play Lord of Wind.\n\u203B\n X can be 0.\n\u203B\n X cannot be greater than the number of legal targets ie. Surging Strikes, Whelming Gustwaves, and Mugenshi: RELEASE in your graveyard.\n\u203B\n You only shuffle your deck if you put at least one card into your deck.\n\u203B\n The “If you do, [...]” effect is an on-play triggered ability which triggers if the additional cost is played. This means it can be responded to, and it resolves before Lord of Wind resolves and becomes attacking.",
     cardImage: require("./images/LordOfWind.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Pounding Gale",
@@ -515,6 +588,7 @@ const cardData = [
       "\nPounding Gale doubles the damage that is dealt to a hero after damage calculation. It does not affect the defense value of the cards blocking Pounding Gale.",
     cardImage: require("./images/PoundingGale.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Dorinthea",
@@ -522,6 +596,7 @@ const cardData = [
       "\nThis ability does not give the weapon attack go again. You are still required to have an action point to attack again.\n\u203B\n This ability bypasses the “Once per Turn Action - Attack” on weapons and allows an additional attack with the same weapon\n\u203B\n This effect is mandatory, the first weapon you hit with each turn gets this effect. It cannot be saved up for a future weapon attack that turn.",
     cardImage: require("./images/Dorinthea.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Dawnblade",
@@ -529,6 +604,7 @@ const cardData = [
       "\nDawnblade does not have go again nor can it attack more than once per turn. Dawnblade requires other cards to allow Dawnblade to attack more than once.\n\u203B\n A +1{p} counter is a permanent effect that increases the power of Dawnblade (until the counter is removed)",
     cardImage: require("./images/Dawnblade.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Braveforge Bracers",
@@ -536,6 +612,7 @@ const cardData = [
       "\nThis only effects the next weapon attack. It will not affect weapon attacks beyond the next weapon attack.",
     cardImage: require("./images/BraveforgeBracers.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Refraction Bolters",
@@ -543,6 +620,7 @@ const cardData = [
       "\nIf this is used on an attack with go again, you will only gain 1 action point upon resolution as multiple instances of go again do not stack.\n\u203B\n You decide if you want to destroy Refraction Bolters after the attack has hit and the damage is dealt.",
     cardImage: require("./images/RefractionBolters.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Biting Blade",
@@ -550,6 +628,7 @@ const cardData = [
       "\nThe first line only affects the current weapon attack. It will not affect weapon attacks beyond the current weapon attack.\n\u203B\n The second line affects the base power of all weapons you control. It gives a +1{p} bonus to all weapons you control, including the current attack and any additional attacks that weapon may make this turn.",
     cardImage: require("./images/BitingBlade.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Driving Blade",
@@ -557,6 +636,7 @@ const cardData = [
       "\nThis only effects the next weapon attack. It will not affect weapon attacks beyond the next weapon attack.\n\u203B\n The weapon attack has go again regardless if it hits.",
     cardImage: require("./images/DrivingBlade.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Ironsong Determination",
@@ -564,6 +644,7 @@ const cardData = [
       "\nTThis affects all weapon attacks from target weapon this turn not just the next attack.\n\u203B\n An attack with Dominate cannot be defended with more than 1 card from hand.",
     cardImage: require("./images/IronsongDetermination.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Ironsong Response",
@@ -571,6 +652,7 @@ const cardData = [
       "\nIronsong Response has no card text if reprise is not active but can still be played. It simply won’t do anything on resolution.\n\u203B\n This only affects the current weapon attack. It will not affect weapon attacks beyond the current weapon attack.",
     cardImage: require("./images/IronsongResponse.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Nature’s Path Pilgrimage",
@@ -578,6 +660,7 @@ const cardData = [
       "\nThe attack does not gain go again. Nature’s Path Pilgrimage requires an action point to use and provides an action point from go again upon resolution.\n\u203B\n This only affects the next weapon attack. It will not affect weapon attacks beyond the next weapon attack.\n\u203B\n The ability only triggers if you have no cards in your arsenal at the time the attack hits.\n\u203B\n You must place the card in your arsenal if it is an action. It is not optional.",
     cardImage: require("./images/NaturesPathPilgrimage.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Overpower",
@@ -585,6 +668,7 @@ const cardData = [
       "\nThis only affects the current weapon attack. It will not affect weapon attacks beyond the current weapon attack.",
     cardImage: require("./images/Overpower.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Rout",
@@ -592,6 +676,7 @@ const cardData = [
       "\nThis only affects the current weapon attack. It will not affect weapon attacks beyond the current weapon attack.\n\u203B\n If reprise is active, you can only play Rout if there is a legal target.\n\u203B\n The defense value of a defending card removed from the chain link is not included in damage calculation.\n\u203B\n A defense reaction card that is returned to hand by Rout, can be replayed.",
     cardImage: require("./images/Rout.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Sharpen Steel",
@@ -599,6 +684,7 @@ const cardData = [
       "\nThe attack does not gain go again. Sharpen Steel requires an action point to use and provides an action point from go again upon resolution.\n\u203B\n This only affects the next weapon attack. It will not affect weapon attacks beyond the next weapon attack.",
     cardImage: require("./images/SharpenSteel.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Singing Steelblade",
@@ -606,6 +692,7 @@ const cardData = [
       "\nYou may only play Singing Steelblade in your deck if your hero is Dorinthea Ironsong or Dorinthea (young hero).\n\u203B\n This only affects the current weapon attack. It will not affect weapon attacks beyond the current weapon attack.\n\u203B\n A combat chain is made up of one of more chain links. The banished card can only be played on the chain link Singing Steelblade was played.\n\u203B\n You may elect not to banish a card when searching, however you still must shuffle your deck.\n\u203B\n The card played from the banished zone goes to the graveyard upon resolution.",
     cardImage: require("./images/SingingSteelblade.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Steelblade Shunt",
@@ -613,6 +700,7 @@ const cardData = [
       "\nThe damage cannot be blocked but it can be prevented by a prevention effect.",
     cardImage: require("./images/SteelbladeShunt.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Steelblade Supremacy",
@@ -620,6 +708,7 @@ const cardData = [
       "\nYou may only have Steelblade Supremacy in your deck if your hero is Dorinthea Ironsong or Dorinthea (young hero).\n\u203B\n This affects all weapon attacks from target weapon this turn not just the next attack.",
     cardImage: require("./images/SteelbladeSupremacy.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Stroke of Foresight",
@@ -627,6 +716,7 @@ const cardData = [
       "\nThis only affects the current weapon attack. It will not affect weapon attacks beyond the current weapon attack.\n\u203B\n You use the reprise ability at the time the attack reaction resolves. (assuming reprise is active)\n\u203B\n If you have no cards in hand at the time you play this with reprise active, you still draw a card then immediately put the card on the top or bottom of your deck.\n\u203B\n You draw a card then immediately put a card from your hand on the top or bottom of your deck. There is no priority between drawing the card and putting a card on the top or bottom of your deck.",
     cardImage: require("./images/StrokeOfForesight.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Warrior’s Valor",
@@ -634,6 +724,7 @@ const cardData = [
       "\nThis only affects the next weapon attack. It will not affect weapon attacks beyond the next weapon attack.",
     cardImage: require("./images/WarriorsValor.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Arcanite Skullcap",
@@ -1362,6 +1453,7 @@ const cardData = [
       "\nQuicken is a token and is not part of your deck.\n\u203B\n Quicken stays in the arena until destroyed.\n\u203B\n When you attack with an attack action card or weapon you must destroy Quicken. It is not optional.\n\u203B\n A Quicken token may be represented by a small object such as a card sleeve or coin if a Quicken token card is not available.\n\u203B\n Multiple instances of go again on the same card or activated ability do not stack. If a card or activated ability has multiple instances of go again when it resolves its controller gains 1 action point only.",
     cardImage: require("./images/Quicken.webp"),
     set: "WTR",
+    language: "EN",
   },
   {
     name: "Zen State",
@@ -6058,11 +6150,673 @@ const cardData = [
     set: "DYN",
   },
   {
+    name: "Stealth",
+    ruling:
+      "\n Stealth is an ability keyword written on the text box of a card.\n\u203B\n There is no meaning to the keyword ability itself. It is used as an “empty” ability that is used by other abilities.",
+    set: "KEYWORD",
+  },
+  {
     name: "Ponder",
     ruling:
       "\n You draw the card before you choose to arsenal a card and draw up to your hero’s intellect.",
     cardImage: require("./images/Ponder.webp"),
     set: "DYN",
+  },
+  {
+    name: "Quiver",
+    ruling:
+      "\n Quiver is a subtype keyword written on the type box of a card.\n\u203B\n A quiver can be equipped in the weapon slot in addition to a 2H bow as a special exception to equip rules.\n\u203B\n Only 1 quiver can be equipped at a time, similar to off-hand equipment.\n\u203B\n A quiver occupies a weapon slot. It cannot be equipped with two 1H weapons if there are only two weapon zones.",
+    set: "KEYWORD",
+  },
+  {
+    name: "Plague Hive",
+    ruling: "",
+    cardImage: require("./images/PlagueHive.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Uzuri",
+    ruling:
+      "\n You may banish any card from your hand to pay for the activation of this ability - it does not have to be an attack action card with cost 2 or less.\n\u203B\n You must have an attacking card with stealth on the active chain link to target to activate this ability. An attack with stealth on a resolved (previous) chain link is not a valid target for this effect.\n\u203B\n There is no priority between turning the banished card face-up, putting the attacking stealth card on the bottom of your deck, and putting the banished card on the chain link.\n\u203B\n If the banished card is not an attack action card with cost 2 or less, it remains face-up in the banished zone, and the attack on the active chain link remains there.\n\u203B\n All cards currently defending on the active chain link (including equipment, defense reactions etc.) remain on the active chain link as defending cards against the new attack.\n\u203B\n Effects that apply to the defending cards continue to apply to those defending cards when Uzuri ability replaces the stealth card.\n\u203B\n Effects that apply to the target card with stealth do not transfer to the card that replaces it.\n\u203B\n If a layer on the stack targets the stealth card, and then the stealth card is put to the bottom of the deck, the layer will either fail to resolve (if the stealth card was the only target of the layer), or the effect that targets the stealth card will simply fail (it does not transfer to the card that replaces it).\n\u203B\n When the banished card is put onto the chain link as an attacking card, it is not considered to be played. You do not choose targets, select modes, pay on-play costs, or trigger on-play or on-attack effects, as you normally would if you typically played/attacked with the card.",
+    cardImage: require("./images/Uzuri.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Arakni, Solitary Confinement",
+    ruling:
+      "\n Your first attack with stealth is given go again, even if it is the second or later attack in the turn (if none of the previous attacks had stealth).",
+    cardImage: require("./images/ArakniSolitaryConfinement.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Nerve Scalpel",
+    ruling:
+      "\n Reaction cards include both defense reactions and attack reactions.\n\u203B\n If two or more attack reactions are declared as defending cards at once, they would all get -1{d}.\n\u203B\n If two or more defense reactions are played, they would not all get -1{d} because each defense reaction must be resolved one at a time, and the first that resolves (and thus defends) would count as the next time, and get the -1{d}.\n\u203B\n If a hero is hit two or more times by Nerve Scalpel and has not yet defended, the effects stack and the next time they defend with 1 or more reaction cards this turn, those cards have -1{d} for each time they were hit by a Nerve Scalpel this turn.\n\u203B\n If a hero is hit by Nerve Scalpel after a defense reaction is played, but before it resolves, then that defense reaction will get -1{d} after it resolves and becomes defending.",
+    cardImage: require("./images/NerveScalpel.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Orbitoclast",
+    ruling:
+      "\n If two or more non-attack action cards are declared as defending cards at once, they would all get -1{d}.\n\u203B\n If a hero is hit two or more times by Orbitoclast and has not yet defended, the effects stack and the next time they defend with 1 or more non-attack action cards this turn, those cards have -1{d} for each time they were hit by an Orbitoclast this turn.",
+    cardImage: require("./images/Orbitoclast.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Scale Peeler",
+    ruling:
+      "\n If two or more equipment are declared as defending cards at once, they would all get -1{d}.\n\u203B\n If a hero is hit two or more times by Scale Peeler and has not yet defended, the effects stack and the next time they defend with 1 or more equipment cards this turn, those cards have -1{d} for each time they were hit by a Scale Peeler this turn.\n\u203B\n When the combat chain closes and effects like Temper trigger, the -1{d} would still apply when calculating the defense of the equipment.",
+    cardImage: require("./images/ScalePeeler.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Redback Shroud",
+    ruling:
+      "\n There is no way to generate Silver tokens in the Outsiders set. This effect in particular is designed to be combined with Silver generation effects in other sets.\n\u203B\n Redback Shroud’s activated ability is an Attack Reaction, and can only be activated in the reaction step of combat.\n\u203B\n Any -1{d} counters are removed from the Redback Shroud when it goes to the graveyard. If it is then equipped, it will not have any -1{d} counters on it.\n\u203B\n Redback Shroud's triggers and resolves during the start of turn phase. There is no priority and it can not be responded to.\n\u203B\n Decreasing the cost to play a card does not decrease the actual cost of the card for the purposes of effects that reference cost.",
+    cardImage: require("./images/RedbackShroud.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Infiltrate",
+    ruling:
+      "\n The card is banished face-up into the owner’s banished zone.\n\u203B\n You may play the card even if it does not have talents or classes that match your hero.\n\u203B\n If you play another hero’s card it is considered to be controlled by you, but still owned by the player whose deck it came from, until it becomes a new card (i.e. when it gets turned face-down or moves to a zone outside the arena).\n\u203B\n Effects that put themselves on the bottom of your deck have received errata that put them on the bottom of the “owner’s deck”. If you play a card you don’t own with this effect, it does not go on the bottom of your deck.\n\u203B\n When a card is cleared it goes to the owner’s graveyard, not the graveyard of the player that played it (e.g. after resolving or when the combat chain closes).\n\u203B\n If the card is not played by the end of your next turn, it simply remains in the banished zone.\n\u203B\n If the card is played by the hero or otherwise moved from the banished zone, before you play it, you can no longer play that card.\n\u203B\n The card must be legal to play, and you must still pay the appropriate costs to play it. E.g. if the card is an action, you must have an action point to play it on your own turn.",
+    cardImage: require("./images/Infiltrate.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Shake Down",
+    ruling:
+      "\n If Shake Down is put on the active chain link as the attacking card by Uzuri’s effect, it would have the ability because you have activated an attack reaction this chain link.\n\u203B\n When Shake Down’s ability resolves, the attacking player picks a color before the opponent reveals their hand.\n\u203B\n The controller of Shake Down chooses the color and the card that is banished based on that color.",
+    cardImage: require("./images/ShakeDown.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Spreading Plague",
+    ruling:
+      "\n X is determined to be the current number of defending cards on the active chain link at the time that Spreading Plague resolves, not when it was played, or any time after it resolves.\n\u203B\nDefending cards include equipment and resolved defense reactions on the active chain link.",
+    cardImage: require("./images/SpreadingPlague.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Back Stab",
+    ruling:
+      "\n If Back Stab is put on the active chain link as an attacking card by Uzuri's effect, Back Stab's continuous effect would only affect defense reactions that have not yet been played by the defending player. Any defense reactions already on the chain link or waiting to resolve on the stack are not affected.\n\u203B\n Back Stab does not prevent defense reaction abilities from being activated (e.g. Oldhim)",
+    cardImage: require("./images/BackStab.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Sneak Attack",
+    ruling:
+      "\n If Sneak Attack is put on the active chain link as the attacking card by Uzuri’s effect, it would have the +4{p} because you have activated an attack reaction this chain link.",
+    cardImage: require("./images/SneakAttack.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Isolate",
+    ruling:
+      "\n If Isolate is put on the active chain link as an attacking card by Uzuri's effect, Isolate's dominate effect would only affect defense reactions that have not yet been played by the defending player. Any defending cards (including defense reactions already on the chain link or waiting to resolve on the stack) are not affected.",
+    cardImage: require("./images/Isolate.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Malign",
+    ruling:
+      "\n Malign stops its damage from being prevented by prevention effects. It does not stop the defending hero from adding defending cards to the chain link.\n\u203B\n If a prevention effect tries to prevent damage from Malign, each replacement effect will still try to do everything else other than preventing that damage. E.g. a card with Ward would still be destroyed.\n\u203B\n Players can still attempt to prevent damage (apply optional prevention effects) even when the damage cannot be prevented.\n\u203B\n An ongoing-prevention effect does not have its prevention amount reduced when the effect does not actually prevent any amount of damage. E.g. Crown of Seed's ongoing-prevention effect would not have its prevention amount reduced and would still be able to prevent 1 damage later in the turn.",
+    cardImage: require("./images/Malign.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Mask of Many Faces",
+    ruling:
+      "\nThe attack action card gains the name in addition to its own name. E.g. If you name “Head Jab” and play Surging Strike, it would have both names “Head Jab” and “Surging Strike”.\n\u203B\n You may only name a card if that card exists and is legal in the format being played.\n\u203B\n Tokens are not cards, and can not be named unless there is a card with the same name.\n\u203B\n The attack action card later loses that name once it enters another zone in the arena, E.g. when the combat chain closes and the card is put in the graveyard, the gained name is lost.",
+    cardImage: require("./images/MaskOfManyFaces.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Cyclone Roundhouse",
+    ruling:
+      "\n This is a trigger that happens when players move to the reaction step. Both players have an opportunity to respond to that trigger. After that trigger resolves both players receive priority in reaction step to act before game moves to damage step.\n\u203B\n Any defending card on each chain link may be banished this way, including equipment and defense reactions.\n\u203B\n A defending card that is banished this way is no longer considered to be defending on its chain link and thus is not calculated in the total defense against an attack. Damage is not retroactively dealt to respective targets for resolved (previous) chain links.",
+    cardImage: require("./images/CycloneRoundhouse.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Dishonor",
+    ruling:
+      "\n Bonds of Ancestry must be the last attack on the combat chain for Dishonor to gain +2{p}.\n\u203B\n Surging Strike, Descendent Gustwave, and Bonds of Ancestry do not have to be in any specific order on the combat chain to meet the condition for the on-hit trigger, just that you control them when the triggered effect resolves.\n\u203B\n When a hero loses their abilities, simply treat their text box as empty.\n\u203B\n If a hero loses their abilities this way, they are not prevented from gaining abilities from other effects (e.g. Brainstorm).",
+    cardImage: require("./images/Dishonor.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Head Leads the Tail",
+    ruling:
+      "\n You may not name “Head Leads the Tail” as the effect requires you to name another card.\n\u203B\n You may only name a card if that card exists and is legal in the format being played.\n\u203B\n Tokens are not cards, and can not be named unless there is a card with the same name. Tokens (which can not be named) are distinct from token-rarity cards. E.g. You may name attack action cards like Phoenix Flame.\n\u203B\n You can name any type of card (eg: Energy Potion) but it will only get +1{p} if the named card is an attack action card.",
+    cardImage: require("./images/HeadLeadstheTail.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Wander With Purpose",
+    ruling:
+      "\n Discarding a card with cost 0 is optional. If you do, you are required to search your deck for a card with combo.\n\u203B\n You may purposefully fail to find a card with combo in your deck when searching.\n\u203B\n If you fail to find a card when searching, you do not banish any cards, but you are still required to shuffle your deck.\n\u203B\n If the card is not played by the end of the turn, it simply remains in the banished zone.\n\u203B\n There is no priority to respond between choosing whether to discard and searching your deck.",
+    cardImage: require("./images/WanderWithPurpose.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Visit the Floating Dojo",
+    ruling:
+      "\n This is not a targeted effect, you are not required to have both a Surging Strike and a card with combo in your graveyard to play this.\n\u203B\n The effect is not optional. When this resolves, if you have a Surging Strike and/or card with combo in your graveyard, you must put them on the top and/or bottom of your deck.\n\u203B\n If you only have either Surging Strike or a card with combo in your graveyard, but not both, you put the card that you have on the top or bottom of your deck. If you have neither, the effect simply fails.\n\u203B\n You may put the cards in any combination on the top and/or bottom of your deck. You are not required to put both on the top, or both on the bottom.\n\u203B\n You’re required to show your opponent the two cards you are putting into your deck. You are not required to share with them which of those cards (and what order) are put to the top and/or bottom.",
+    cardImage: require("./images/VisitTheFloatingDojo.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Bonds of Ancestry",
+    ruling:
+      "\n A card has Gustwave in its name if “Gustwave” is one of the whole words of one or more of the names of the card. If a card has no name, it does not have “Gustwave” in its name.\n\u203B\n Banishing a card from your graveyard is optional. If you do, searching your deck is mandatory.\n\u203B\n While searching, you may fail to find a card with the same name as the card that you banished. Even if you fail to find, you must shuffle your deck.\n\u203B\n If you do not play the banished card this combat chain, it remains banished.\n\u203B\n Decreasing the cost to play a card does not decrease the actual cost of the card for the purposes of effects that reference cost.",
+    cardImage: require("./images/BondsOfAncestry.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Recoil",
+    ruling:
+      "\n The player who was hit chooses the card in their hand to put on top of their deck. If they have no cards in hand, the effect simply fails.",
+    cardImage: require("./images/Recoil.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Spinning Wheel Kick",
+    ruling:
+      "\nIf Spinning Wheel Kick is played by the opponent, and its on-hit effect triggers, it is put on the bottom of your (the owner’s) deck, not the deck of the player who played it.",
+    cardImage: require("./images/SpinningWheelKick.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Back Heel Kick",
+    ruling:
+      "\n Effects that increase power are applied as events. This effect modifies that event (and thus the result of the effect) to increase the power by an additional 1.\n\u203B\n This effect increases ALL instances of effects that increase power, not just the first. If two or more effects would increase the power of Back Heel Kick by 1, then each of those effects instead increase the power by 2.\n\u203B\n Effects that apply when Back Heel Kick is played and on the stack (e.g. Come to Fight) will be affected by its ability.\n\u203B\n Effects that set or decrease power are not modified by Back Heel Kick’s effect (e.g. -2{p} would not become -1{p}).",
+    cardImage: require("./images/BackHeelKick.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Be Like Water",
+    ruling:
+      "\n The Be Like Water gains the name in addition to its own name. E.g. If you choose“Head Jab”, it would have both names “Head Jab” and “Be Like Water”.\n\u203B\n Be Like Water later loses that name once it enters another zone in the arena, E.g. when the combat chain closes and Be Like Water is put in the graveyard, the gained name is lost.",
+    cardImage: require("./images/BeLikeWater.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Descendent Gustwave",
+    ruling:
+      "\n Decreasing the cost to play a card does not decrease the actual cost of the card for the purposes of effects that reference cost.",
+    cardImage: require("./images/DescendentGustwave.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "One-Two Punch",
+    ruling: "\n The source of the 2 damage is One-Two Punch.",
+    cardImage: require("./images/OneTwoPunch.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Riptide",
+    ruling:
+      "\n The first effect triggers when the card is played from hand, but does not resolve until after the card has finished being played. You do not put a card in arsenal part-way through playing a card.\n\u203B\n The first effect resolves before the played card resolves.\n\u203B\n The second effect triggers whenever a trap you control triggers. Traps typically trigger when they resolve and become defending (e.g. “When this defends”), but may also have additional trigger conditions that must be met for the trap to trigger.\n\u203B\n Even if the trap’s triggered effect does not affect the gamestate, if the trigger condition is met and it has triggered, then Riptide’s second effect will also be triggered.\n\u203B\n Both effects can trigger any number of times each turn, as long as their trigger condition is met.",
+    cardImage: require("./images/Riptide.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Barbed Castaway",
+    ruling:
+      "\n If an effect allows you to activate a bow an additional time, you choose which ability you wish to activate an additional time when you activate the bow for that additional time. It would not allow you to activate both abilities additional times. E.g. Tri-Shot.\n\u203B\n If an effect allows you to activate the abilities of a bow an additional time, each ability on Barbed Castaway is able to be activated one additional time each. E.g. Snap Shot.\n\u203B\n Both effects of the abilities are optional. You may activate either ability without having an arrow in hand, or face down in arsenal, and the effect would simply do nothing.\n\u203B\n Turning a card face-up is not considered revealing the card or putting the card face-up in arsenal. It is simply changing its state from face-down to face-up.",
+    cardImage: require("./images/BarbedCastaway.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Trench of Sunken Treasure",
+    ruling:
+      "\n Putting the face-down card from your arsenal on the bottom of your deck is the cost for activating this ability and can not be responded to.\n\u203B\n If you have two or more face-down cards in your arsenal, you choose which card is put on the bottom of your deck.",
+    cardImage: require("./images/TrenchOfSunkenTreasure.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Quiver of Abyssal Depths",
+    ruling:
+      "\n This is not a targeted effect, you are not required to have 3 arrows with different names in your graveyard to play this.\n\u203B\n The effect is not optional. When this resolves, choose 0-3 arrows with different names in your graveyard, and shuffle them into your deck. You may choose less than the number of arrows you have with different names in your graveyard.\n\u203B\n If you choose 0 arrows for the effect, you must still shuffle your deck.",
+    cardImage: require("./images/QuiverOfAbyssalDepths.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Quiver of Rustling Leaves",
+    ruling:
+      "\n If the card revealed is not an arrow card, it remains on the top of the deck and Quiver of Rustling Leaves is NOT destroyed.\n\u203B\n If the card revealed is an arrow, but can not be put into your arsenal (e.g. if you have no empty arsenal zones), then it remains on the top of the deck and Quiver of Rustling Leaves is destroyed.\n\u203B\n You can activate Quiver of Rustling Leaves two or more times in a row by holding priority, even if the top card of the deck is an arrow. In this case, the resolution of the first will put the arrow face-up in arsenal and destroy Quiver of Rustling Leaves, the second and subsequent resolutions will still reveal the top card and attempt to put the card into arsenal if it’s an arrow.",
+    cardImage: require("./images/QuiverOfRustlingLeaves.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Crow's Nest",
+    ruling:
+      "\n If a card in arsenal is turned face-up, it is not considered to have been put face-up into your arsenal from your deck.\n\u203B\n A card can have two or more aim counters on it, but it does not have twice the number of effects.",
+    cardImage: require("./images/CrowsNest.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Driftwood Quiver",
+    ruling:
+      "\n This is not a targeted effect, you are not required to have a card in your arsenal to activate this.\n\u203B\n This effect is not optional. If you have a card in arsenal, you must put it on the bottom of your deck.\n\u203B\n If you have two or more in your arsenal, you choose which card is put on the bottom of your deck.",
+    cardImage: require("./images/DriftwoodQuiver.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Wayfinder's Crest",
+    ruling:
+      "\n This effect triggers when Wayfinder's Crest becomes a defending card, even if it is added as a defending card to the combat chain by an effect.\n\u203B\n You may target yourself with this effect. If you do, you look at the top card of your own deck.\n\u203B\n If you target an opposing hero, they do not have the privilege of looking at that card from this effect.",
+    cardImage: require("./images/WayfindersCrest.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Amplifying Arrow",
+    ruling:
+      "\n Effects that increase power are applied as events. This effect modifies that event (and thus the result of the effect) to increase the power by an additional 1.\n\u203B\n This effect increases ALL instances of effects that increase power, not just the first. If two or more effects would increase the power of Amplifying Arrow by 1, then each of those effects instead increase the power by 2.\n\u203B\n Effects that apply when Amplifying Arrow is played and on the stack (e.g. Come to Fight) will be affected by its ability.\n\u203B\n Effects that set or decrease power are not modified by Amplifying Arrow’s effect (e.g. -2{p} would not become -1{p}).",
+    cardImage: require("./images/AmplifyingArrow.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Barbed Undertow",
+    ruling:
+      "\n The choice of color is made on the resolution of the trigger.\n\u203B\n Barbed Undertow prevents the player from pitching a card with the chosen color strip. Those cards can still be played, or used to pay additional costs such as discarding or revealing.",
+    cardImage: require("./images/BarbedUndertow.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Buzzsaw Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. The power of the attack is checked at the time this resolves and becomes a defending card (i.e. defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\n Any effect that increases the power of an attack is retroactively and proactively prevented by this triggered effect (e.g. gets, gains, has etc.). This typically makes the modified power of an attack equal to its base power.\n\u203B\n Counters that increase power are also prevented from modifying power by Buzzsaw Trap.",
+    cardImage: require("./images/BuzzsawTrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Collapsing Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. Whether the attack has go again is checked at the time this resolves and becomes a defending card (i.e. defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\n If there are fewer cards in the hero’s deck than how many they would draw, they draw all of those cards.\n\u203B\n If an effect triggers whenever a card is discarded (specifically one and not “one or more”), it triggers for each card discarded this way (e.g. Rhinar).",
+    cardImage: require("./images/CollapsingTrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Spike Pit Trap",
+    ruling:
+      "\n“When this defends” is an event-based trigger. Whether the attacking hero has played/activated a reaction is checked at the time this resolves and becomes a defending card (i..e defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\n If there is no attacking hero, then this can’t trigger.\n\u203B\n If there are no cards in the attacking hero’s deck, no card is put into the graveyard, and they do not lose any life this way (i.e. X=0).",
+    cardImage: require("./images/SpikePitTrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Melting Point",
+    ruling:
+      "\n When the dagger is destroyed, it is put into the opponent's graveyard. It is neither put into their inventory nor does it continue to exist in the arena.",
+    cardImage: require("./images/MeltingPoint.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Boulder Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. The power of the attack is checked at the time this resolves and becomes a defending card (i.e. defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\n This effect is not optional. If the opponent controls at least one equipment, you must put a -1{d} counter on one of them.\n\u203B\n You may put a -1{d} count on an equipment, even if it doesn’t have the defense property, or it would bring its defense value below zero (when actually calculated, negative defense values become 0).",
+    cardImage: require("./images/BoulderTrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Pendulum Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. Whether the attacking hero has played/activated a reaction is checked at the time this resolves and becomes a defending card (i.e. defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\n This effect is not optional.\n\u203B\n If there are 2 or less cards in their deck, put all the cards in the deck into the graveyard.",
+    cardImage: require("./images/PendulumTrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Tarpit Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. Whether the attack has go again is checked at the time this resolves and becomes a defending card (i.e. defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\n Go again is a resolution ability not a trigger ability. An attack with go again defended with Tarpit Trap will still grant an action point in the link step of combat.\n\u203B\n The effect is still functional on the next attack action card to hit, even if that attack is on a new combat chain.\n\u203B\n This prevents any effect that would trigger the next time an attack action card hits, including on-hit and on-damage effects. It does not prevent effects from triggering if the attack deals damage in other ways (in steps other than the damage step of combat) or subsequent times an attack action card hits.\nIf an effect would trigger, but is prevented by this, it still counts towards the number of times it would trigger. For effects that say “The next time” or “The first time” that are prevented from triggering, they won’t trigger again.",
+    cardImage: require("./images/TarpitTrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Fletch a Red Tail",
+    ruling:
+      "\n Red cards are cards with a red color bar on the top of the card. Cards without a color bar have no color.",
+    cardImage: require("./images/FletchARedTail.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Fletch a Yellow Tail",
+    ruling:
+      "\n Yellow cards are cards with a yellow color bar on the top of the card. Cards without a color bar have no color.",
+    cardImage: require("./images/FletchAYellowTail.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Fletch a Blue Tail",
+    ruling:
+      "\n Blue cards are cards with a blue color bar on the top of the card. Cards without a color bar have no color.",
+    cardImage: require("./images/FletchABlueTail.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Murkmire Grapnel",
+    ruling:
+      "\n Murkmire Grapnel stops its damage from being prevented by prevented effects. It does not stop the defending hero from adding defending cards to the chain link.\n\u203B\n If a prevention effect tries to prevent damage from Murkmire Grapnel, each replacement effect will still try to do everything else other than preventing that damage. E.g. a card with Ward would still be destroyed.\n\u203B\n Players can still attempt to prevent damage (apply optional prevention effects) even when the damage cannot be prevented.\n\u203B\n An ongoing-prevention effect does not have its prevention amount reduced when the effect does not actually prevent any amount of damage.",
+    cardImage: require("./images/MurkmireGrapnel.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Spire Sniping",
+    ruling:
+      "\n Spire Sniping triggers when it is put face-up in arsenal or is turned face-up in arsenal. It does not trigger if it is put face-down in arsenal.\n\u203B\n This is not an opt effect, both cards must return to the top of the deck (not bottom), but you choose the order.",
+    cardImage: require("./images/SpireSniping.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Widowmaker",
+    ruling:
+      "\n Widowmaker does not prevent defense reaction abilities from being activated (e.g. Oldhim)\n\u203B\n All cards that are defending on the chain link are considered for whether it is being defended by fewer than 2 cards, including equipment and defense reactions.",
+    cardImage: require("./images/WidowMaker.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Flick Knives",
+    ruling:
+      "\n This is a targeted effect. The dagger must be under your control and not on the active chain link for you to activate this ability.\n\u203B\n If damage is dealt, it is considered a “hit event” with the dagger considered to have hit.\n\u203B\n The dagger itself is not an attack.\n\u203B\n If the dagger hits this way, the attack on the active chain link is not considered to have hit. This is relevant for effects that are conditional only on the attack hitting (Benji, on-hit effects on the attack etc.)\n\u203B\n If the dagger hits this way, the active chain link (but not the attack) is considered to have hit. This is relevant for effects that are conditional on a chain link hitting instead of an attack hitting (e.g. Mask of Momentum, Whirling Mist Blossom, etc.)\n\u203B\n The dagger is destroyed regardless of whether it hits.\n\u203B\n When the dagger is destroyed, it is put into the graveyard. It is neither put into your inventory nor continues to exist in the arena.\n\u203B\n If both a dagger deals damage due to these effects and an attack hits in the damage step in the same active chain link, this situation does not count as two separate chain links hitting. A chain link simply hits or it doesn't.",
+    cardImage: require("./images/FlickKnives.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Mask of Shifting Perspectives",
+    ruling:
+      "\n Mask of Shifting Perspectives can be activated (in the reaction step) even if you are not currently attacking with a dagger.\n\u203B\n Mask of Shifting Perspectives must be activated and resolved during the reaction step of combat, before a dagger is considered to have hit for the effect to trigger.\n\u203B\n The effect created by Mask of Shifting Perspectives triggers every time a dagger hits this turn, not just the first time.",
+    cardImage: require("./images/MaskOfShiftingPerspectives.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Stab Wound",
+    ruling:
+      "\n If a Dagger has hit from Hurl or Flick Knives, it counts towards the number of times a dagger has hit this combat chain.\n\u203B\n This is a life loss effect. It can not be prevented by damage prevention effects.",
+    cardImage: require("./images/StabWound.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Concealed Blade",
+    ruling:
+      "\n In limited formats, you can have any number of token-rarity cards in your card pool, and therefore your inventory during a game. For Outsiders limited specifically, you have access to any number of Spider’s Bite (if you’re an Assassin hero) or Harmonized Kodachi (if you’re a Ninja hero)\n\u203B\n In constructed formats, you only have the cards you’ve registered in your card pool, and they are only in your inventory if you didn’t choose them during the start of game procedure. If there are no daggers in your inventory, this effect fails.\n\u203B\n If you do not have an empty weapon zone to equip a dagger, the effect fails.\n\u203B\n If you have a 2H weapon equipped, and only 2 weapon zones, the effect fails.",
+    cardImage: require("./images/ConcealedBlade.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Knives Out",
+    ruling:
+      "\n Knives Out can be played (in the reaction step) even if you are not currently attacking with a dagger.",
+    cardImage: require("./images/KnivesOut.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Bleed Out",
+    ruling:
+      "\nIf a Dagger has dealt damage from Hurl or Flick Knives, it counts towards the amount of damage daggers have dealt this combat chain.\n\u203B\n  Decreasing the cost to play a card does not decrease the actual cost of the card for the purposes of effects that reference cost.",
+    cardImage: require("./images/BleedOut.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Hurl",
+    ruling:
+      "\n This is a targeted effect on an attack-trigger. The dagger must be under your control when the triggered effect is added to the stack. If you do not control a dagger this triggered effect does not get added to the stack (it does not resolve).\n\u203B\n If damage is dealt, it is considered a “hit event” with the dagger considered to have hit.\n\u203B\n The dagger itself is not an attack.\n\u203B\n If the dagger hits this way, the attack on the active chain link is not considered to have hit. This is relevant for effects that are conditional only on the attack hitting (Benji, on-hit effects on the attack etc.)\n\u203B\n If the dagger hits this way, the active chain link (but not the attack) is considered to have hit. This is relevant for effects that are conditional on a chain link hitting instead of an attack hitting (e.g. Mask of Momentum, Whirling Mist Blossom, etc.)\n\u203B\n The dagger is destroyed regardless of whether it hits.\n\u203B\n When the dagger is destroyed, it is put into the graveyard. It is neither put into your inventory nor continues to exist in the arena.\n\u203B\n If both a dagger deals damage due to these effects and an attack hits in the damage step in the same active chain link, this situation does not count as two separate chain links hitting. A chain link simply hits or it doesn't.",
+    cardImage: require("./images/Hurl.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Mask of Malicious Manifestations",
+    ruling:
+      "\n Putting a card from your hand or arsenal on the bottom of your deck is part of the cost for activating this ability and can not be responded to.\n\u203B\n When you reveal cards until you reveal an attack action card, you reveal them one at a time, and stop revealing cards until the condition is met or the effect fails. The revealed cards remain revealed until your stop revealing. Revealed cards are technically in the same zone, even while being revealed.\n\u203B\n Effects that trigger when one or more cards are revealed only trigger once (e.g. Korshem), even though you’re revealing cards one at a time because it’s all part of a single reveal event.\n\u203B\n If you reveal your entire deck without revealing an attack action card, the reveal effect fails to produce a result. Nothing is put into your hand, but you still shuffle.\n\u203B\n If the card you put on the top or bottom of the deck is an attack action card, it can be revealed and put into your hand if revealed this way.",
+    cardImage: require("./images/MaskOfMaliciousManifestations.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Toxic Tips",
+    ruling:
+      "\n You choose between Frailty, Inertia, or Bloodrot Pox at the time the triggered effect resolves.",
+    cardImage: require("./images/ToxicTips.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Codex of Frailty",
+    ruling:
+      "\n A player can’t put an attack action card from their graveyard into their arsenal if they don’t have any attack action cards in their graveyard, or they don’t have any empty arsenal zones.\n\u203B\n This effect is not optional. If a player has at least one attack action card in their graveyard and an empty arsenal zone, they must put one of those cards in their arsenal.\n\u203B\n You can play this card and have no cards in hand. If you are instructed to discard and you have no cards in hand, you simply don’t discard.\n\u203B\n Players choose and put the card in their arsenal starting with the turn player and going in player turn order (clockwise) around the table. Then the players that have successfully done so, choose and discard a card starting with the turn player and in the same player order.\n\u203B\n Creating Ponder and Frailty tokens is not dependent on the preceding effects.",
+    cardImage: require("./images/CodexOfFrailty.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Codex of Inertia",
+    ruling:
+      "\n A player can’t put a card from the top of their deck into their arsenal if they don’t have any cards in their deck, or they don’t have any empty arsenal zones.\n\u203B\n This effect is not optional. If a player has at least one card in their deck and an empty arsenal zone, they must put one of those cards in their arsenal.\n\u203B\n You can play this card and have no cards in hand. If you are instructed to discard and you have no cards in hand, you simply don’t discard.\n\u203B\n Players put the card in their arsenal starting with the turn player and going in player turn order (clockwise) around the table. Then the players that have successfully done so, choose and discard a card starting with the turn player and in the same player order.\n\u203B\n Creating Ponder and Inertia tokens is not dependent on the preceding effects.",
+    cardImage: require("./images/CodexOfInertia.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Codex of Bloodrot",
+    ruling:
+      "\n A player can’t put a card from their hand into their arsenal if they don’t have any cards in hand, or they don’t have any empty arsenal zones.\n\u203B\n This effect is not optional. If a player has at least one card in their hand, and an empty arsenal zone, they must put a card into their arsenal.\n\u203B\n Players choose and put one of those cards in their arsenal starting with the turn player and going in player turn order (clockwise) around the table.\n\u203B\n Creating Ponder and Bloodrot Pox tokens is not dependent on the preceding effects.",
+    cardImage: require("./images/CodexOfBloodrot.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Death Touch",
+    ruling:
+      "\n You choose between Frailty, Inertia, or Bloodrot Pox at the time the triggered effect resolves.",
+    cardImage: require("./images/DeathTouch.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Toxicity",
+    ruling:
+      "\n Losing {h} is not considered dealing damage. Effects that prevent damage (or otherwise modify damage) do not change how much life is lost from this effect. Effects that trigger when damage is dealt do not trigger when life is lost this way.",
+    cardImage: require("./images/Toxicity.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Virulent Touch",
+    ruling:
+      "\n Virulent Touch can’t be played from hand, even if an effect allows you to. Something that can not happen takes precedence over something that can happen.\n\u203B\nVirulent Touch triggers when the chain link resolves at the beginning of the resolution step of combat (after damage is dealt).",
+    cardImage: require("./images/VirulentTouch.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Bloodrot Trap",
+    ruling:
+      "\n“When this defends” is an event-based trigger. Whether the attacking hero has played/activated a reaction is checked at the time this resolves and becomes a defending card (i..e defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\nIf there is no attacking hero (e.g. this is defending against an ally attack), this does not trigger.",
+    cardImage: require("./images/BloodrotTrap.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Frailty Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. Whether the attack has go again is checked at the time this resolves and becomes a defending card (i..e defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\nIf there is no attacking hero (e.g. this is defending against an ally attack), this does not create a token under the opponent’s control.",
+    cardImage: require("./images/FrailtyTrap.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Inertia Trap",
+    ruling:
+      "\n “When this defends” is an event-based trigger. The power of the attack is checked at the time this resolves and becomes a defending card (i..e defends the attack). If the trigger condition is met only after this resolves, then this does not trigger.\n\u203B\nIf there is no attacking hero (e.g. this is defending against an ally attack), this does not create a token under the opponent’s control.",
+    cardImage: require("./images/InertiaTrap.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Vambrace of Determination",
+    ruling:
+      "\n Vambrace of Determination reduces the maximum amount of damage a prevention effect can prevent on a single event of damage.\n\u203B\n Vambrace of Determination’s effect applies to ANY kind of prevention effect, as long as the damage that it is preventing is {p} damage.\n\u203B\n If it is a fixed-prevention effect (e.g. “The next time you’d be dealt damage, prevent 3 of that damage.”) it would simply prevent 1 less of that damage (e.g. it would essentially become “prevent 2 of that damage”).\n\u203B\n If it is an ongoing-prevention effect (e.g. “Prevent the next 3 damage dealt to your hero.”) it would simply reduce the prevention amount (e.g. it would essentially become “Prevent the next 2 damage dealt to your hero.)\n\u203B\n Vambrace of Determination does not reduce the {d} of defending cards or their effectiveness during damage calculation in the damage step of combat.\n\u203B\n If the opponent controls multiple prevention effects that could apply to an event of {p} damage, they choose which of those effects apply first. Vambrace of Determination’s effect only applies to the first of those effects that prevent the {p} damage.",
+    cardImage: require("./images/VambraceOfDetermination.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Silken Gi",
+    ruling:
+      "\n Increases to {r} costs are applied before decreases to {r} costs. A card can not be reduced below 0{r} to play.\n\u203B\n Decreasing the cost to play a card does not decrease the actual cost of the card for the purposes of effects that reference cost.",
+    cardImage: require("./images/SilkenGi.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Threadbare Tunic",
+    ruling:
+      "\n If you have only one card in your hand costing 1{r} you can't activate this ability to gain {r} to pay for that last card. You must activate this while you have no cards in hand.",
+    cardImage: require("./images/ThreadbareTunic.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Amnesia",
+    ruling:
+      "\nPlayers own the cards that they start the game with and they own tokens that they create. This is separate to “control” where some effects have you create (and own) something under an opponent’s control (e.g. Frostbite).\n\u203B\n Effects with text that reference the card that they are on by name are unaffected. For the avoidance of doubt, any card text that references its source card name can effectively be written/read as “this”. (e.g. Down and Dirty’s text can be written as “While THIS is in your arsenal, you may defend with it.”). This does not apply to effects with text that reference cards with the same name that aren’t its source. (e.g. Spinning Wheel Kick’s text can NOT be written as “If Twin Twisters or THIS was the last attack [...]”)\n\u203B\n If a card or token does not have a name, it is not affected by effects that specify cards or tokens by name. The opponent can not target or choose cards and tokens if the effect specifies by name.\nYou can not choose “nameless” as part of a name effect.\n\u203B\n Cards retain all of their other properties, including class, talent, type, subtypes etc.",
+    cardImage: require("./images/Amnesia.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Down and Dirty",
+    ruling:
+      "\n If Down and Dirty is in your arsenal and you are the defending hero, you may declare it as a defending card during the defend step of combat. You can not add Down and Dirty during any other step of combat or if you are not a defending hero.",
+    cardImage: require("./images/DownAndDirty.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Give and Take",
+    ruling:
+      "\n Give and Take triggers once each time an action card defends it on the combat chain. If the defending hero declares two or more defending action cards during the defend step, the Give and Take triggers once for each action card.\n\u203B\n If Give and Take is added to an already active chain link as an attacking card (i.e. with Uzuri's hero ability), then existing defending action cards on the combat chain do not cause the effect to trigger.\n\u203B\n You’re required to show your opponent the cards you are putting on top your deck. You are not required to share with them the order those cards are put to the top.",
+    cardImage: require("./images/GiveAndTake.webp"),
+    set: "OUT",
+  },
+
+  {
+    name: "Gore Belching",
+    ruling:
+      "\n When you reveal cards until you reveal an attack action card, you reveal them one at a time, and stop revealing cards until the condition is met or the effect fails. The revealed cards remain revealed until your stop revealing.\n\u203B\nEffects that trigger when one or more cards are revealed only trigger once (e.g. Korshem), even though you’re revealing cards one at a time because it’s all part of a single reveal event.\n\u203B\nIf you reveal your entire deck without revealing an attack action card, the reveal effect fails to produce a result. No card is banished, Gore Belching gets -7{p}, and you shuffle your deck.\n\u203B\nIf Gore Belching is added to an already active chain link as an attacking card (i.e. with Uzuri's hero ability), then the effect does not trigger. No cards are revealed, it does not get -7{p}, and you do not shuffle your deck.",
+    cardImage: require("./images/GoreBelching.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Burdens of the Past",
+    ruling:
+      "\n If the target hero has one or more defense reaction cards in their graveyard, they can’t play defense reaction cards with the same name.\n\u203B\n If a defense reaction has no name (e.g. after being hit by Amnesia), then it can still be played.",
+    cardImage: require("./images/BurdensOfThePast.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Humble",
+    ruling:
+      "\n Simply treat their hero’s text box as empty.\n\u203B\nIf a hero loses their abilities this way, they are not prevented from gaining abilities from other effects (e.g. Brainstorm).",
+    cardImage: require("./images/Humble.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Infectious Host",
+    ruling:
+      "\nRepeating means if you control an Inertia token, create an Inertia under their control, and if you control a Bloodrot Pox token, create a Bloodrot Pox under their control.\n\u203B\nIf you control all three of Frailty, Inertia, and Bloodrot Pox tokens, create one of each under the hero’s control.\n\u203B\nIf you control multiple of a token you still only create one of that token under the hero’s control.\n\u203B\nYou don’t lose control of your tokens, you simply create tokens under the control of your opponent based on what you control.",
+    cardImage: require("./images/InfectiousHost.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Looking for a Scrap",
+    ruling:
+      "\nThe card banished from the graveyard must have exactly 1{p}. This includes weapon cards (e.g. Harmonized Kodachi).\n\u203B\nWhen an attack moves into the graveyard, it becomes a “fresh version” of that card and essentially loses all of the effects (especially {p} effects) that previously applied to it.\n\u203B\nYou do not control cards in your graveyard. Effects that increase the power of your attacks or cards you control do not apply to cards in your graveyard.",
+    cardImage: require("./images/LookingForAScrap.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Wreck Havoc",
+    ruling:
+      "\nTurning a card face-up is not considered revealing the card or putting the card face-up in arsenal. It is simply changing its state from face-down to face-up.\n\u203B\nThe effect is not optional. If the hero hit has a face-down card in arsenal it must be turned face-up, and then if there is a face-up defense reaction in their arsenal, destroy it.\n\u203B\nIf there are two or more defense reactions in the hero’s arsenal, you choose which card to destroy.\n\u203B\nIf there are face-down cards in the opponent’s arsenal, no cards are turned face-up.\n\u203B\nIf there are no face-up defender reactions in the hero’s arsenal, no cards are destroyed.\n\u203B\nWreck Havoc does not prevent defense reaction abilities from being activated (e.g. Oldhim)",
+    cardImage: require("./images/WreckHavoc.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Cut Down to Size",
+    ruling:
+      "\n Cut Down to Size will trigger when it hits a hero and it will check if the hero hit has 4 or more cards in hand when the layer resolves.\n\u203B\nThe hero hit chooses what card they discard.",
+    cardImage: require("./images/CutDownToSize.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Feisty Locals",
+    ruling:
+      "\n When you reveal cards until you reveal an attack action card, you reveal them one at a time, and stop revealing cards until the condition is met or the effect fails. The revealed cards remain revealed until your stop revealing.\n\u203B\nEffects that trigger when one or more cards are revealed only trigger once (e.g. Korshem), even though you’re revealing cards one at a time because it’s all part of a single reveal event.\n\u203B\nIf you reveal your entire deck without revealing an attack action card, the reveal effect fails to produce a result. No card is banished, Gore Belching gets -7{p}, and you shuffle your deck.\n\u203B\nIf Gore Belching is added to an already active chain link as an attacking card (i.e. with Uzuri's hero ability), then the effect does not trigger. No cards are revealed, it does not get -7{p}, and you do not shuffle your deck.",
+    cardImage: require("./images/FeistyLocals.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Freewheeling Renegades",
+    ruling:
+      "\n If this is defended by two or more action cards, it still only gets -2{p} in total.",
+    cardImage: require("./images/FreewheelingRenegades.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Spring Load",
+    ruling:
+      "\nSpring Load triggers during the attack step of combat. It will check if you have no cards when the layer resolves.\n\u203B\nIf you have no cards in your hand when it resolves then you draw cards afterwards, it does not lose the +{p} effect.",
+    cardImage: require("./images/SpringLoad.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Scout the Periphery",
+    ruling:
+      "\n You may target yourself with this effect. If you do, you look at the top card of your own deck.\n\u203B\nIf you target an opposing hero, they do not have the privilege of looking at that card from this effect.",
+    cardImage: require("./images/ScoutThePeriphery.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Brush Off",
+    ruling:
+      "\n If this prevention effect applies to an event of damage, it typically prevents all of that damage. The value of the damage is determined at the time Brush Off is checked for when it is active. E.g. If you would be dealt 2 damage, Brush Off (red) would prevent 2 damage.\n\u203B\nBrush Off (blue) is only active if you would be dealt exactly 1 damage.\n\u203B\nBrush Off’s effect is applied like any other prevention effect. It is only applied to damage if the amount of damage is X or less.\n\u203B\nIf the damage amount is more than X, this effect is not applied or consumed. However, if another prevention effect would reduce this to X or less, then this effect may apply before the damage would be dealt. E.g. 7 damage, Oasis Respite (red) prevents 4 reducing it to 3 damage, Brush Off (red) prevents the rest.\n\u203B\nIf you control two or more prevention effects, and both would apply to an event of damage, you may decide which of those prevention effects to apply. If the first prevention effect would reduce the damage to 0, no more prevention effects would apply (and be consumed) to the damage event.",
+    cardImage: require("./images/BrushOff.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Peace of Mind",
+    ruling:
+      "\n After preventing damage, any remaining prevention amount does not carry-over to events where you take damage.",
+    cardImage: require("./images/PeaceOfMind.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Bloodrot Pox",
+    ruling:
+      "\n This triggers and resolves in the end phase. There is no priority and it can not be responded to.\n\u203B\nThis triggered effect resolves before choosing an arsenal card, putting pitched cards on the bottom of your deck, and drawing up to your intellect.\n\u203B\nIf there are two or more effects that trigger in the end phase, the turn player decides the order that those layers resolve.\n\u203B\nEffects that increase costs to play cards or activate abilities do not alter the cost to prevent the damage from this effect.",
+    cardImage: require("./images/BloodrotPox.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Frailty",
+    ruling:
+      "\n This triggers and resolves in the end phase. There is no priority and it can not be responded to.\n\u203B\nThis triggered effect resolves before choosing an arsenal card, putting pitched cards on the bottom of your deck, and drawing up to your intellect.\n\u203B\nIf there are two or more effects that trigger in the end phase, the turn player decides the order that those layers resolve.",
+    cardImage: require("./images/Frailty.webp"),
+    set: "OUT",
+  },
+  {
+    name: "Inertia",
+    ruling:
+      "\n This triggers and resolves in the end phase. There is no priority and it can not be responded to.\n\u203B\nThis triggered effect resolves before choosing an arsenal card, putting pitched cards on the bottom of your deck, and drawing up to your intellect.\n\u203B\nIf there are two or more effects that trigger in the end phase, the turn player decides the order that those layers resolve.",
+    cardImage: require("./images/Inertia.webp"),
+    set: "OUT",
   },
 ];
 

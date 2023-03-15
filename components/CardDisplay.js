@@ -27,6 +27,7 @@ const CardDisplay = ({ searchTerm, booster }) => {
 
     setCards(limitedArray);
   }, [searchTerm, booster]);
+
   return (
     <FlatList
       data={cards}
@@ -37,6 +38,7 @@ const CardDisplay = ({ searchTerm, booster }) => {
               source={item.cardImage}
               style={item.cardImage ? styles.cards : ""}
             />
+
             <Text style={styles.listItemTitle}>{item.name}</Text>
             <Text style={styles.description}>{item.ruling}</Text>
           </View>

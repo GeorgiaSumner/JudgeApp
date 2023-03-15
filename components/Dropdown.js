@@ -21,6 +21,7 @@ const Dropdown = ({ setBooster, booster }) => {
         <Picker.Item label="Everfest" value="EVR" />
         <Picker.Item label="Uprising" value="UPR" />
         <Picker.Item label="Dynasty" value="DYN" />
+        <Picker.Item label="Outsiders" value="OUT" />
       </Picker>
     </View>
   );
